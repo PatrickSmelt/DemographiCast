@@ -1,7 +1,7 @@
 # DemographiCast
 
 ## Overview
-DemographiCast is a machine learning project designed to predict election outcomes based on historical electoral data. Using Random Forest alogrithms, thsi project analyzes data from previous U.S presidential elections to forcast voting behaviors and election results.
+DemographiCast is a machine learning project designed to predict election outcomes based on historical electoral data. Using Random Forest alogrithms, this project analyzes data from previous U.S presidential elections to forecast voting behaviors and election results.
 
 ## Project Goals
 * To develop a predictive model that assists campaign strategists, policymakers, and the public in understanding potential election outcomes.
